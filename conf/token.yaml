@@ -1,0 +1,8 @@
+headers:
+  content-type: application/json
+json:
+  password: xxx
+  phoneNumber: xxx
+  uuid: xxxx-xxxx-xxxx-xxxx-7f284b147bf5
+method: POST
+url: https://xxx.xxx.cn/api/login/

@@ -1,0 +1,12 @@
+{
+	"msgtype": "markdown",
+	"markdown": {
+		"title": "AutoTestReport",
+		"text": "",
+		"at": {
+			"atMobiles": ["xxx"],
+			"atUserIds": ["xxx"],
+			"isAtAll": false
+		}
+	}
+}

@@ -1,0 +1,4 @@
+method: GET
+params:
+  uuid: xxxx-xxxx-xxxx-xxxx-af01b00be233
+url: https://xxx.xxx.cn/api/kaptcha

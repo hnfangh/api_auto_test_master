@@ -1,0 +1,12 @@
+FROM python:3.8.0
+
+ADD . /app
+WORKDIR /app
+
+RUN pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple
+RUN pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+# 当requirements.txt文件变化时，需要先编译基础该文件，构建机执行命令
+# docker build . -f Dockerfile_base -t xxx.xxx.cn/xxx/xxx:base 
+# docker push xxx.xxx.cn/xxx/xxx:base 

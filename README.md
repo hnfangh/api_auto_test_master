@@ -91,5 +91,4 @@
 
 ## 🔔钉钉群通知
 
-![dingding_talk](https://user-images.githubusercontent.com/77956804/235818294-04162a18-ed99-4de7-833c-366c884555f9.png)
-
+![dingding_talk](https://user-images.githubusercontent.com/77956804/235818790-636eb366-0a07-4f30-a08d-e16a888a7d8b.png)

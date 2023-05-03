@@ -86,8 +86,10 @@
 ## 🎈allure生成测试报告
 `allure generate ./reports/allure-results -o ./reports/allure-report  --clean`
 
-![](images/allure_report.png)
+![allure_report](https://user-images.githubusercontent.com/77956804/235818269-c78fea64-3682-4a26-bc3d-811a793c4ca8.png)
+
 
 ## 🔔钉钉群通知
 
-![](images/dingding_talk.png)
+![dingding_talk](https://user-images.githubusercontent.com/77956804/235818294-04162a18-ed99-4de7-833c-366c884555f9.png)
+
